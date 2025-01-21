@@ -6,6 +6,6 @@ Python map generator using numpy and openCV
 - Run the file!
 
 The only function to run is create_map(), which takes the following arguments:
-``
+```
 test
-``
+```
