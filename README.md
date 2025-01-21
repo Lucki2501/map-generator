@@ -1,7 +1,7 @@
 # map-generator
 Python map generator using numpy and openCV
 
-## Steps to run this file
+## Steps to run this code
 - Replace the `PATH` constant with the directory you want your images to be saved in.
 - Run the file!
 
